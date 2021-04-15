@@ -1,4 +1,4 @@
-import Telek from "./Telek";
+import Telek from "@/Telek";
 
 export default class Megoldas {
   private _telkek: Telek[] = [];
